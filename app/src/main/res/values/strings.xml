@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">ProyectoBMMH</string>
+    <string name="titulo">Inteligencia Artificial</string>
+    <string name="nombre"> Brandon Miguel Marquez Hernandez 7S11</string>
+    <string name="grupo"> 7S11 </string>
+
+    <string name="temas"> Indice </string>
+
+    <string name="definicion"> ¿Que es inteligencia Artificial? </string>
+    <string name="definicionTexto"> La Inteligencia artificial es el campo científico de la
+                                    informática que se centra en la creación de programas y
+                                    mecanismos que pueden mostrar comportamientos considerados inteligentes.
+                                    En otras palabras, la IA es el concepto según el cual “las máquinas
+                                    piensan como seres humanos”. </string>
+
+
+    <string name="botonDefinicion"> Definicion </string>
+    <string name="botonAtras"> Atras </string>
+    <string name="logo"> imagenLogo </string>
+
+    <string name="boton2"> Usos de la inteligencia Artificial </string>
+    <string name="boton2Text">  IA al software fotográfico, vehículos autónomos se apoyan en el deep learning
+                            IA en videojuegos, Reconocimiento facial en tiempo real, etc.</string>
+
+    <string name="boton3"> Ventajas </string>
+    <string name="boton3Text"> Reducción de errores: La inteligencia artificial nos ayuda a reducir el error y la posibilidad
+                                                de alcanzar la precisión con un mayor grado de precisión es una posibilidad.
+                                                Se aplica en diversos estudios como la exploración del espacio.
+                                Aplicación diaria: Los métodos computarizados de razonamiento, aprendizaje y percepción
+                                                automatizados se han convertido en un fenómeno común en nuestra vida cotidiana.
+                                                 Tenemos a nuestra señora Siri o Cortana para ayudarnos.
+                                Asistentes digitales: Las organizaciones altamente avanzadas utilizan’avatares’, que son
+                                                réplicas o asistentes digitales que pueden interactuar realmente con los usuarios,
+                                                    ahorrando así la necesidad de recursos humanos.
+                             Sin pausas ni descansos: Las máquinas, a diferencia de los humanos, no requieren descansos ni
+                                                    refrigerios frecuentes. Están programados para largas horas y pueden
+                                                    funcionar continuamente sin aburrirse, distraerse o incluso cansarse.</string>
+
+    <string name="boton4"> Desventajas </string>
+    <string name="boton4Text"> Alto Coste: La creación de la inteligencia artificial requiere unos costes enormes, ya que se trata de
+                                            máquinas muy complejas. Su reparación y mantenimiento requieren grandes costes.
+                               Sin Replicar Humanos:  Se cree que la inteligencia es un don de la naturaleza. Un argumento ético continúa,
+                                                    si la inteligencia humana debe ser replicada o no.
+                                No hay mejora con la experiencia: A diferencia de los humanos, la inteligencia artificial no puede mejorarse
+                                                con la experiencia. Con el tiempo, puede llevar al desgaste. Almacena muchos datos, pero la forma
+                                                en que se puede acceder a ellos y utilizarlos es muy diferente de la inteligencia humana.
+                                Desempleo: Desde la Agencia Universitaria DQ, creemos que cuando hablamos de inteligencia artificial ventajas y
+                                                desventajas, sin duda esta es la peor desventaja y la más peligrosa cara a un futuro.
+                                                La sustitución de seres humanos por máquinas puede llevar a un desempleo a gran escala.</string>
+    <string name="boton5"> Importancia </string>
+    <string name="boton5Text"> En primera instancia, es a través de los datos que la IA automatiza el aprendizaje y el descubrimiento de
+        forma repetitiva. Esto es, la IA es capaz de realizar tareas de cómputo frecuentes de forma confiable y sin fatiga en la búsqueda
+        del mejor resultado, pero, al menos por ahora, la inteligencia humana sigue siendo vital para configurar el sistema y hacer las
+        preguntas indicadas que serán resueltas mediante el uso de la IA. </string>
+
+
+    <string name="boton6"> Se puede clonar un Cerebro </string>
+    <string name="boton6Text"> Aún no, pero ya trabajamos en las redes neuronales, que intentan ser la copia electrónica del
+        funcionamiento de un cerebro. Actualmente usamos redes pequeñas, pues cuando éstas son muy complejas, se pierde el control
+        y ya no sabemos exactamente qué está ocurriendo ahí dentro. </string>
+    <string name="boton7"> ¿Qué podemos esperar en el futuro? </string>
+    <string name="boton7Text"> La red Internet, que llegará a nuestra casa a través del cableado óptico, transportará inmensas
+        cantidades de información que serán cargadas en nuestra computadora en décimas de segundo. Las imágenes aparecerán
+        instantáneamente y nos reiremos de la época en que una página tardaba hasta 10 minutos en “bajar”. Por medio de la red
+        podremos acceder a cualquier programa de televisión o radio que se transmita en cualquier parte del mundo, con una
+        traducción impecable, o guardarlo en la memoria de la máquina si deseamos verlo más tarde, como si fuera una
+        videocasetera. Pero si algún amigo se perdió de ese programa, se lo enviaremos a su terminal en segundos. Los
+        estudiantes tendrán cada vez más clases virtuales en las que accederán directamente a los bancos de información
+        de la universidad y se comunicarán con sus maestros sólo para resolver dudas o exámenes. </string>
+
+    <string name="acerca"> ACERCA DE ! </string>
+    <string name="informacionTitulo"> Informacion de la aplicacion </string>
+    <string name="infromacion"> Aplicacon Hecha por Marquez Hernandez Branadon Miguel
+                                Fecha: 06/10/2019
+                                version2.5</string>
+    <string name="informacionDes"> En esta apicacion se uestra un poco de la informacion de la inteligecia artificial
+                                    sus ventajas y desvenaas y como es que nos aydaria en nuestra vidacotidiana</string>
+
+
+
+
+</resources>
